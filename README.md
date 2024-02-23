@@ -2,3 +2,5 @@
 Este é o meu primeiro repositório
 
  fiz uma alteração no repositório remoto no github.
+
+fiz uma alteração local na minha maquina
